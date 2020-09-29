@@ -17,9 +17,23 @@ Model is based on Pretrained [GPT-2 Model](https://github.com/openai/gpt-2) and 
 
 ## Model Descriptions
 
- GPT2 model
+ A chinese version of GPT-2 model, using BERT chinese BPE tokenizer
 
- bert tokenizer
+ - A simple prototype of chinese news article generator
+
+ - **1.5B** parameters for GPT2-base model and **3.2B** parameters for GPT2-medium model
+
+ - **21128** BPE tokens from BERT chinese BPE tokenizer
+
+ - **1.4B** tokens for model training
+
+ <center>
+
+[loss curve](loss.png)
+
+ </center>
+
+
 
 
 ## Demo website
