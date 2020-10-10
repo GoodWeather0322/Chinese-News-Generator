@@ -38,7 +38,7 @@ Model is based on Pretrained [GPT-2 Model](https://github.com/openai/gpt-2) and 
 
 ## Demo website
 
-[http://goodweather.ml/](http://goodweather.ml/)
+[http://goodweather.ddns.net](http://goodweather.ddns.net:13599/)
 
 ## Generate Example
 
